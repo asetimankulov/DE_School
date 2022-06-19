@@ -3,9 +3,8 @@
 ## Project content
 * Directories:
 1. AIRFLOW contains dags and a log file
-2. SNOWFLAKE contains an sql-script with problems solving and final datasets.
-* Files:
-1. PIPELINE - pipeline of process
+2. SNOWFLAKE contains an sql-script with problems solutions and final datasets.
+
 ## TOP 10 rows of tables from tasks a-d
 
 ### 1.a. Pokémon and their types
