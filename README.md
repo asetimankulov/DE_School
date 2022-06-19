@@ -4,7 +4,12 @@
 * Directories:
 1. AIRFLOW contains dags and a log file
 2. SNOWFLAKE contains an sql-script with problems solutions and final datasets.
-
+* Files:
+1. AIRFLOW/Imankulov_FP.py - DAG that fetch data from PokéAPI
+2. AIRFLOW/Imankulov_FP_2.py - DAG that check count of generations
+3. AIRFLOW/pokemons_log.log - Log-file with information about runs of DAGs and daily check count of generations
+4. SNOWFLAKE/ (moves_popularity.csv, pokemon_types.csv, pokemon_types_generations.csv, pokemons_rating.csv)- finals datasets
+5. SNOWFLAKE/Snowflake depoly.sql - sql_script with solutions
 ## TOP 10 rows of tables from tasks a-d
 
 ### 1.a. Pokémon and their types
