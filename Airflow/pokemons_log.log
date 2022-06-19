@@ -1,0 +1,8 @@
+
+[18-06-2022 12:32:09: INFO] Got 8 urls from https://pokeapi.co/api/v2/generation/
+[18-06-2022 12:32:09: INFO] Got 1126 urls from https://pokeapi.co/api/v2/pokemon/
+[18-06-2022 12:32:14: INFO] Got 20 names from https://pokeapi.co/api/v2/type/
+[18-06-2022 12:32:15: INFO] Created 2 threads to receive data
+[18-06-2022 12:32:16: INFO] Start getting content for 1132 urls
+[18-06-2022 12:40:19: INFO] Finish getting content. The current queue size is 0 urls
+[19-06-2022 00:00:04: INFO] Current number of generations is 8
