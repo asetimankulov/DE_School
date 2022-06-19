@@ -1,8 +1,10 @@
 # DE_School
-## The project contains two directories:
+## Project content
+Directories:
 * AIRFLOW contains dags and a log file
 * SNOWFLAKE contains an sql-script with problems solving and final datasets.
-
+Files:
+* PIPELINE - pipeline of process
 ## TOP 10 rows of tables from tasks a-d
 
 ### 1.a. Pokémon and their types
